@@ -8,7 +8,6 @@ This repo includes code samples (in C) from my Computer Systems course.
 8. Allocators
 
 ## Lab Topics
-1. Terminal
 2. C Data Structures
 3. Assembly
 4. Code Generation
@@ -16,4 +15,3 @@ This repo includes code samples (in C) from my Computer Systems course.
 7. Multiprocessing
 8. AVX
 9. Parallel Programming
-10. xv6
