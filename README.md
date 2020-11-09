@@ -13,7 +13,6 @@ This repo includes code samples (in C) from my Computer Systems course.
 3. Assembly
 4. Code Generation
 5. Processes and Cache Simulator
-6. Allocators
 7. Multiprocessing
 8. AVX
 9. Parallel Programming
