@@ -5,7 +5,8 @@ This repo includes code samples (in C) from my Computer Systems course.
 2. C Data Structures
 3. Assembly
 5. Shell
-6 - 8. Allocators
+6. Allocators
+8. Allocators
 
 ## Lab Topics
 1. Terminal
