@@ -2,7 +2,6 @@
 This repo includes code samples (in C) from my Computer Systems course.
 
 ## Assignment Topics
-2. C Data Structures
 3. Assembly
 5. Shell
 6. Allocators
